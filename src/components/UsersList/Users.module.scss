@@ -1,0 +1,32 @@
+.table {
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+  border-collapse: collapse;
+  background: #fff;
+  margin: 10px auto 0;
+  position: relative;
+  max-width: calc(100% - 170px);
+}
+
+.grayRow {
+  background-color: #f2f2f2;
+}
+
+thead[class*="ant-table-thead"] th {
+  background-color: #4caf50 !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+@media screen and (max-width: 992px) {
+  thead[class*="ant-table-thead"] {
+    display: none;
+  }
+  .row {
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: unset;
+    text-align: center;
+  }
+}

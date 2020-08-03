@@ -1,0 +1,35 @@
+.general {
+  position: fixed;
+  font-weight: bolder;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+.top {
+  top: 15px;
+  right: 20px;
+  background: #3498db;
+  font-size: 18px;
+  width: 50px;
+  height: 50px;
+}
+.right {
+  bottom: calc(100% / 2);
+  right: 15px;
+  background: #4caf50;
+  font-size: 16px;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+.left {
+  bottom: calc(100% / 2);
+  left: 15px;
+  background: #4caf50;
+  font-size: 16px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}

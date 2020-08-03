@@ -1,0 +1,30 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+
+  .link {
+    margin: 5px;
+    padding: 3px;
+    transition: all .5s ease;
+    border: none;
+    background-color: #dddddd;
+    cursor: pointer;
+    color: black;
+    text-align: center;
+  }
+  .page {
+    &:hover{
+      background-color: #4caf50;
+    }
+  }
+  .edit {
+    &:hover {
+      background-color: #3498db;
+    }
+  }
+  .delete {
+    &:hover{
+      background-color: #e74c3c;
+    }
+  }
+}
