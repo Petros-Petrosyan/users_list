@@ -1,6 +1,6 @@
 ## Users list project
 
-## In this project I used `Redux` for store, `redux-thunk` for asynchronous things like data fetching, `create-react app`, `Firebase` for backend and Auth, `React-router` for routing, `axios` for http request.
+## In this project I used `Redux` for store, `redux-thunk` for asynchronous things like data fetching, `create-react app`, `Firebase` for backend, `React-router` for routing, `axios` for http request.
 
 #### How to use the downloaded files
 

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2088dca-256d-4308-a005-a3e3e60a752f" name="Default Changelist" comment="" />
+    <list default="true" id="a2088dca-256d-4308-a005-a3e3e60a752f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Routers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Routers.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +66,7 @@
       <workItem from="1596493459777" duration="63000" />
       <workItem from="1596493538688" duration="25000" />
       <workItem from="1596493565212" duration="320000" />
+      <workItem from="1596495383258" duration="318000" />
     </task>
     <servers />
   </component>
